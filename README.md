@@ -1,28 +1,28 @@
-<h1 align="center">Gustavo Moura 👨‍💻</h1>
+<h1 align="center">Gustavo Moura</h1>
 
 <p align="center">
-  <strong>Desenvolvedor apaixonado por tecnologia, focado em back-end e sempre buscando evoluir.</strong> 🚀
+  <strong>Desenvolvedor apaixonado por tecnologia, focado em back-end e sempre buscando evoluir.</strong>
 </p>
 
 ---
 
-## ✨ Sobre mim
+## Sobre mim
 
 Olá! Eu sou o **Gustavo Moura** e este é o espaço onde compartilho meus projetos, ideias e aprendizados no universo do desenvolvimento. Atualmente, estou me especializando no **back-end**, mas também tenho interesse por outras áreas da tecnologia.
 
 ---
 
-## 🎯 Objetivo deste repositório
+##  Objetivo deste repositório
 
 Este repositório foi criado para personalizar meu perfil no GitHub e mostrar ao mundo um pouco da minha trajetória no mundo do código. Aqui você encontrará:
 
-- 🌟 Projetos que refletem minha paixão por programação  
-- 📚 Estudos e experimentos que venho realizando  
-- 🔗 Links úteis para se conectar comigo
+- Projetos que refletem minha paixão por programação  
+- Estudos e experimentos que venho realizando  
+- Links úteis para se conectar comigo
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias
+##  Ferramentas e Tecnologias
 
 ### ⚡ Skills:
 <p>
@@ -59,7 +59,7 @@ Este repositório foi criado para personalizar meu perfil no GitHub e mostrar ao
 
 ---
 
-## 📈 Estatísticas do meu GitHub
+##  Estatísticas do meu GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomouradevbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomouradevbr&layout=compact&langs_count=7&theme=dracula"/>
@@ -100,5 +100,5 @@ Este repositório foi criado para personalizar meu perfil no GitHub e mostrar ao
 
 ---
 
-<p align="center">🙌 Obrigado por visitar meu perfil! Fique à vontade para explorar e contribuir. 😄</p>
+<p align="center"> Obrigado por visitar meu perfil! Fique à vontade para explorar e contribuir. </p>
 
