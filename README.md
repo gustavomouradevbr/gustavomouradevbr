@@ -62,7 +62,8 @@ Este repositório foi criado para personalizar meu perfil no GitHub e mostrar ao
 ##  Estatísticas do meu GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomouradevbr&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomouradevbr&layout=normal&langs_count=10&theme=dracula"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomouradevbr&layout=normal&langs_count=10&theme=dracula&cache_seconds=1800"/>
 </div>
 
 ---
