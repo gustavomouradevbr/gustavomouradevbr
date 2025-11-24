@@ -41,13 +41,11 @@ This repository is used to personalize my GitHub profile and showcase a bit of m
 ### 📦 Databases:
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools & IDEs:
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/brModelo-003B57?style=for-the-badge&logo=data&logoColor=white"/>
@@ -66,7 +64,6 @@ This repository is used to personalize my GitHub profile and showcase a bit of m
 <p>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
