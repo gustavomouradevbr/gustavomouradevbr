@@ -69,10 +69,14 @@ This repository is used to personalize my GitHub profile and showcase a bit of m
 ---
 
 ## GitHub stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomouradevbr&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=1800"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomouradevbr&layout=normal&langs_count=10&theme=dracula&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomouradevbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomouradevbr&layout=compact&langs_count=10&theme=dracula&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gustavomouradevbr&theme=dracula&hide_border=true"/>
 </div>
 
 ---
@@ -111,4 +115,3 @@ This repository is used to personalize my GitHub profile and showcase a bit of m
 ---
 
 <p align="center"> Thank you for visiting my profile! Feel free to explore and contribute. </p>
-
